@@ -1,5 +1,5 @@
 {
-  "name": "lambda-utility",
+  "name": "@ascripture/lambda-utility",
   "version": "0.0.1",
   "description": "",
   "main": "dist/lambda-utility.js",
