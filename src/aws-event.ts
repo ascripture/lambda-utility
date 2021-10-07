@@ -4,6 +4,7 @@ export interface AWSEvent {
     authorizer?: {
       claims?: {
         sub: string;
+        email?: string;
       };
     };
   };
